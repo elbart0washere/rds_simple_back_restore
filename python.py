@@ -1,6 +1,4 @@
 import os
-import json 
-import time
 path="/tmp/" #Path donde voy a guardar esto
 
 backup_password='password'  #Password de origen 
